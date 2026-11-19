@@ -114,10 +114,6 @@ function App() {
           <div className="hero-meta"><span><MapPin size={15}/> India</span><span className="meta-divider"></span><span>Electronics · Data · Connected Systems</span></div>
         </div>
         <div className="hero-visual">
-          <div className="portrait-frame">
-            <img className="profile-photo" src="/profile.jpg" alt="Prachi Ravindra Sawant" />
-            <div className="portrait-caption"><span className="caption-line"></span><div><b>Curious by nature.</b><small>Engineer by education.</small></div></div>
-          </div>
           <div className="orbit orbit-one"></div><div className="orbit orbit-two"></div>
           <div className="floating-card"><span className="floating-icon"><Radio size={19}/></span><div><b>IoT &amp; Robotics</b><small>Hardware + software</small></div></div>
           <div className="gold-dot dot-one"></div><div className="gold-dot dot-two"></div>
