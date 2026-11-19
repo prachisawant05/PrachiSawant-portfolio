@@ -174,7 +174,7 @@ function App() {
           <div className="contact-actions">
             <a className="button button-gold" href="mailto:prachisawant55004@gmail.com">Email me <ArrowUpRight size={17}/></a>
             <a className="button button-outline" href="/Prachi-Sawant-Resume.pdf" target="_blank" rel="noreferrer"><Download size={16}/> Download resume</a>
-            <a className="button button-outline" href="https://www.linkedin.com/in/prachi-sawant-3b52aa284/" target="_blank" rel="noreferrer"><Linkedin size={16}/> Connect on LinkedIn</a>
+            <a className="button button-outline" href="https://www.linkedin.com/in/prachi-sawant-3b52aa284/" target="_blank" rel="noreferrer"><ArrowUpRight size={20} /> Connect on LinkedIn</a>
           </div>
           <div className="contact-foot"><span><Mail size={15}/> prachisawant55004@gmail.com</span><a href="https://www.linkedin.com/in/prachi-sawant-3b52aa284/" target="_blank" rel="noreferrer">LINKEDIN PROFILE <ExternalLink size={13}/></a></div>
         </div>
