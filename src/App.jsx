@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import {
-  ArrowUpRight, Download, Mail, Linkedin, MapPin, Menu, X,
+  ArrowUpRight, Download, Mail, MapPin, Menu, X,
   Code2, Database, BarChart3, Cpu, Radio, Bot, ExternalLink,
   Github, ChevronRight
 } from "lucide-react";
