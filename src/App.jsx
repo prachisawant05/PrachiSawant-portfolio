@@ -124,7 +124,7 @@ function App() {
       <section className="about section-wrap section-pad" id="about">
         <SectionHeading eyebrow="01 / ABOUT ME" title="A little about my journey." />
         <div className="about-grid">
-          <div className="about-lead"><p className="large-copy">I’m a recent <em>B.Tech graduate in Electronics &amp; Telecommunication Engineering</em>, with a specialization in Data Science.</p><p>My interests span data analytics, connected devices and robotics. Through academic projects and internship experience, I have explored data visualization, machine learning, sensor-based monitoring and software development.</p></div>
+          <div className="about-lead"><p className="large-copy">I’m a recent <em>B.Tech graduate in Electronics &amp; Telecommunication Engineering</em>, with a specialization in Data Science & IoT.</p><p>My interests span data analytics, connected devices and robotics. Through academic projects and internship experience, I have explored data visualization, machine learning, sensor-based monitoring and software development.</p></div>
           <div className="about-details">
             <div className="detail-row"><span>EDUCATION</span><div><b>B.Tech – Electronics &amp; Telecommunication Engineering</b><small>Data Science specialization · Pillai College of Engineering · CGPA: 8.24</small></div></div>
             <div className="detail-row"><span>FOCUS AREAS</span><div><b>Data Analytics · IoT · Embedded Systems · Robotics</b><small>Interested in AI and computer vision applications for robotics</small></div></div>
